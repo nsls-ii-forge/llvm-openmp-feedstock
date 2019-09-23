@@ -65,10 +65,3 @@ about:
   license: NCSA
   license_file: LICENSE.txt
   summary: The OpenMP API supports multi-platform shared-memory parallel programming in C/C++ and Fortran.
-
-extra:
-  recipe-maintainers:
-    - inducer
-    - jakirkham
-    - yesimon
-    - isuruf
